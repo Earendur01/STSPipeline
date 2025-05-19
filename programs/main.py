@@ -11,6 +11,11 @@ print("Packages imported")
 project_root = '/Users/atfun/Desktop/NIH/MCI/mci'
 os.chdir(project_root)
 
+# List of required directories
+folders = ["source_data", "int_data", "output_data"]
+
+for folder in folders:
+    os.makedirs(folder, exist_ok=True)
 
 # Load the CSV file into a DataFrame
 df = pd.read_csv('source_data/raw_data.csv', low_memory=False)
