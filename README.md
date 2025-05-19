@@ -4,8 +4,8 @@
 [![R](https://img.shields.io/badge/R-4.0+-brightgreen.svg)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Author**: Avery Funkhouser, MD
-**PI**: Jack Shern, MD
+**Author**: Avery Funkhouser, MD  
+**PI**: Jack Shern, MD  
 **Institution**: NIH / Yale School of Medicine  
 **Status**: Research prototype – stable pipeline  
 **Updated**: May 2025
