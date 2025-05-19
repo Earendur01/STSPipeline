@@ -1,0 +1,177 @@
+﻿Family,Gene
+Cell cycle,BUB1B
+Cell cycle,CCND1
+Cell cycle,CDK12
+Cell cycle,CDKN1A
+Cell cycle,CDKN1B
+Cell cycle,CDKN2A
+Cell cycle,CDKN2C
+Cell cycle,RB1
+DNA methylation,DNMT3A
+DNA methylation,TET2
+Genome integrity,ATM
+Genome integrity,ATRX
+Genome integrity,ATRX
+Genome integrity,BAP1
+Genome integrity,BARD1
+Genome integrity,BRCA1
+Genome integrity,BRCA2
+Genome integrity,BRIP1
+Genome integrity,CHEK2
+Genome integrity,ERCC2
+Genome integrity,MEN1
+Genome integrity,MRE11
+Genome integrity,MSH2
+Genome integrity,MUTYH
+Genome integrity,PMS2
+Genome integrity,PMS2
+Genome integrity,POLQ
+Genome integrity,PPM1D
+Genome integrity,RAD21
+Genome integrity,RAD51D
+Genome integrity,SMC1A
+Genome integrity,SMC3
+Genome integrity,STAG2
+Genome integrity,TERT
+Genome integrity,TP53
+Hedgehog signaling,SUFU
+HIPPO signaling,AJUBA
+HIPPO signaling,CDH1
+HIPPO signaling,NF2
+Histone,H3F3C
+Histone,HIST1H1C
+Histone,HIST1H2BD
+Histone modifier,ARID1A
+Histone modifier,ARID5B
+Histone modifier,ASXL1
+Histone modifier,CREBBP
+Histone modifier,EED
+Histone modifier,EZH2
+Histone modifier,KDM5C
+Histone modifier,KDM6A
+Histone modifier,KMT2D
+Histone modifier,MLL2
+Histone modifier,MLL3
+Histone modifier,MLL4
+Histone modifier,NSD1
+Histone modifier,PBRM1
+Histone modifier,SETBP1
+Histone modifier,SETD2
+Histone modifier,SUZ12
+JAK-STAT signaling,JAK1
+MAPK signaling,BRAF
+MAPK signaling,HRAS
+MAPK signaling,KRAS
+MAPK signaling,MAP2K1
+MAPK signaling,MAP2K4
+MAPK signaling,MAP3K1
+MAPK signaling,MAPK1
+MAPK signaling,MAPK8IP1
+MAPK signaling,NF1
+MAPK signaling,NRAS
+MAPK signaling,RAF1
+MAPK signaling,SOS1
+Metabolism,FH
+Metabolism,IDH1
+Metabolism,IDH2
+NFE2L,NFE2L2
+NFE2L,NFE2L3
+NOTCH signaling,NOTCH1
+NOTCH signaling,NOTCH2
+NOTCH signaling,NOTCH3
+Other,AR
+Other,ARHGAP35
+Other,B2M
+Other,B4GALT3
+Other,EPPK1
+Other,FLCN
+JAK-STAT signaling,GNAS
+Other,HGF
+JAK-STAT signaling,LIFR
+Other,LRP1B
+Other,LRRK2
+Other,MALAT1
+Other,MIR142
+Other,NAV3
+JAK-STAT signaling,NPM1
+JAK-STAT signaling,PRX
+Other,RAC1
+PI(3)K signaling,AKT1
+PI(3)K signaling,PIK3CA
+PI(3)K signaling,PIK3CG
+PI(3)K signaling,PIK3R1
+PI(3)K signaling,PTEN
+PI(3)K signaling,TLR4
+Protein phosphatase,PPP2R1A
+Protein phosphatase,PTPN11
+Proteolysis,CYLD
+Proteolysis,FBXW7
+Proteolysis,KEAP1
+Proteolysis,SPOP
+Proteolysis,USP9X
+Ribosome,RPL22
+Ribosome,RPL5
+RNA processing,DICER1
+RTK signaling,EGFR
+RTK signaling,EPHA3
+RTK signaling,EPHB6
+RTK signaling,ERBB2
+RTK signaling,ERBB4
+RTK signaling,FGFR1
+RTK signaling,FGFR2
+RTK signaling,FGFR3
+RTK signaling,FGFR4
+RTK signaling,FLT3
+RTK signaling,KIT
+RTK signaling,PDGFRA
+RTK signaling,RET
+RTK signaling,RRAS2
+Splicing,PCBP1
+Splicing,SF3B1
+Splicing,U2AF1
+TGF-β signaling,ACVR1
+TGF-β signaling,ACVR1B
+TGF-β signaling,ACVR2A
+TGF-β signaling,SMAD2
+TGF-β signaling,SMAD4
+TGF-β signaling,TGFBR2
+TOR signaling,MTOR
+TOR signaling,STK11
+Transcription factor/regulator,BCOR
+Transcription factor/regulator,CBFB
+Transcription factor/regulator,CEBPA
+Transcription factor/regulator,CTCF
+Transcription factor/regulator,EGR3
+Transcription factor/regulator,EIF4A2
+Transcription factor/regulator,ELF3
+Transcription factor/regulator,EP300
+Transcription factor/regulator,FOXA1
+Transcription factor/regulator,FOXA2
+Transcription factor/regulator,GATA3
+Transcription factor/regulator,MECOM
+Transcription factor/regulator,MYCN
+Transcription factor/regulator,MYOD1
+Transcription factor/regulator,MYOG
+Transcription factor/regulator,NCOR1
+Transcription factor/regulator,PHF6
+Transcription factor/regulator,REST
+Transcription factor/regulator,RUNX1
+Transcription factor/regulator,SIN3A
+Transcription factor/regulator,SMARCA4
+Transcription factor/regulator,SMARCB1
+Transcription factor/regulator,SOX9
+Transcription factor/regulator,TAF1
+Transcription factor/regulator,TBX3
+Transcription factor/regulator,TSHZ2
+Transcription factor/regulator,TSHZ3
+Transcription factor/regulator,VEZF1
+Transcription factor/regulator,VHL
+Transcription factor/regulator,WT1
+Transcription factor/regulator,WWTR1
+Transcription factor/regulator,ZFHX3
+Wnt/β-Catenin signaling,AMER1
+Wnt/β-catenin signaling,APC
+Wnt/β-catenin signaling,AXIN2
+Wnt/β-catenin signaling,CTNNB1
+Wnt/β-catenin signaling,SOX17
+Wnt/β-catenin signaling,TBL1XR1
