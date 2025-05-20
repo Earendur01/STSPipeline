@@ -152,14 +152,14 @@ if (!requireNamespace("BiocManager", quietly = TRUE))     install.packages("Bioc
 
 **Avery Funkhouser, MD**  
 PGY1 Pathology, Yale School of Medicine  
-Former NIH MRSP Scholar - Dr. Jack Shern
-Email: [atfunkhouser@gmail.com](mailto:atfunkhouser@gmail.com)
+Former NIH MRSP Scholar - Dr. Jack Shern  
+Email: [atfunkhouser@gmail.com](mailto:atfunkhouser@gmail.com)  
 GitHub: [github.com/Earendur01](https://github.com/Earendur01) 
 
 **Jack F. Shern, MD**  
-Lasker Clinical Research Scholar
-[Pediatric Oncology Branch](https://ccr.cancer.gov/pediatric-oncology-branch)
-NIH
+Lasker Clinical Research Scholar  
+[Pediatric Oncology Branch](https://ccr.cancer.gov/pediatric-oncology-branch)  
+NIH  
 Email: [john.shern@nih.gov](mailto:john.shern@nih.gov)
 
 ---
